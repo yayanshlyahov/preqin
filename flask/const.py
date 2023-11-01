@@ -1,0 +1,1 @@
+STANDART = 'standart'

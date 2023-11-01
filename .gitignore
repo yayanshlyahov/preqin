@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+.pytest_cache/
+
+# CDK
+cdk.out/
+cdk.context.json
+cdk.staging/
+
+# AWS CDK assets (optional, if you're using CDK assets)
+cdk-assets.json
+
+# Virtual Environment
+venv/
+*.venv/
+.env/
+
+# others
+.classpath
+.project
+.gradle/
+.settings/
+build/
+.idea/
+*.iml
+
+gradle/
+gradlew.bat
+gradlew
+.DS_Store
